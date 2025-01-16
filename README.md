@@ -31,11 +31,9 @@ This is a simple Android application that converts weights from kilograms (kg) t
 2. Enter a weight in the provided input field.
 3. Tap the "Convert" button to see the result in pounds.
 
-## Screenshots
-*Add your screenshots
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+Photos 
+![Screenshot 2025-01-16 210423](https://github.com/user-attachments/assets/769af274-f9b9-4a20-8433-4ebcc69178ff)
+![Screenshot 2025-01-16 210504](https://github.com/user-attachments/assets/61f1f835-1f8a-4585-96a0-cf27ba9cf7f2)
 
 ## Contributions
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
